@@ -1,0 +1,185 @@
+[
+    {
+        "Depth": 50,
+        "Height": 50,
+        "Packages": [
+            {
+                "Depth": 10,
+                "ExpirationDate": "2025-01-01",
+                "Height": 10,
+                "ProductionDate": "2024-09-23",
+                "Weight": 5,
+                "Width": 10
+            },
+            {
+                "Depth": 5,
+                "Height": 20,
+                "ProductionDate": "2024-09-23",
+                "Weight": 10,
+                "Width": 10
+            },
+            {
+                "Depth": 40,
+                "ExpirationDate": "2025-01-01",
+                "Height": 35,
+                "ProductionDate": "2024-09-23",
+                "Weight": 25,
+                "Width": 25
+            },
+            {
+                "Depth": 10,
+                "Height": 10,
+                "ProductionDate": "2024-09-23",
+                "Weight": 10,
+                "Width": 10
+            },
+            {
+                "Depth": 5,
+                "ExpirationDate": "2025-01-01",
+                "Height": 20,
+                "ProductionDate": "2024-09-23",
+                "Weight": 20,
+                "Width": 10
+            },
+            {
+                "Depth": 40,
+                "ExpirationDate": "2025-01-01",
+                "Height": 35,
+                "ProductionDate": "2024-09-23",
+                "Weight": 35,
+                "Width": 25
+            }
+        ],
+        "Width": 50
+    },
+    {
+        "Depth": 50,
+        "Height": 50,
+        "Packages": [
+            {
+                "Depth": 10,
+                "ExpirationDate": "2024-12-19",
+                "Height": 10,
+                "ProductionDate": "2024-09-10",
+                "Weight": 5,
+                "Width": 10
+            },
+            {
+                "Depth": 5,
+                "Height": 20,
+                "ProductionDate": "2024-09-17",
+                "Weight": 15,
+                "Width": 10
+            },
+            {
+                "Depth": 40,
+                "Height": 35,
+                "ProductionDate": "2024-09-23",
+                "Weight": 35,
+                "Width": 25
+            },
+            {
+                "Depth": 10,
+                "Height": 10,
+                "ProductionDate": "2024-09-23",
+                "Weight": 5,
+                "Width": 10
+            }
+        ],
+        "Width": 50
+    },
+    {
+        "Depth": 50,
+        "Height": 50,
+        "Packages": [
+            {
+                "Depth": 10,
+                "ExpirationDate": "2024-12-19",
+                "Height": 10,
+                "ProductionDate": "2024-09-10",
+                "Weight": 5,
+                "Width": 10
+            },
+            {
+                "Depth": 5,
+                "ExpirationDate": "2025-01-01",
+                "Height": 20,
+                "ProductionDate": "2024-09-23",
+                "Weight": 5,
+                "Width": 10
+            },
+            {
+                "Depth": 40,
+                "Height": 35,
+                "ProductionDate": "2024-09-23",
+                "Weight": 5,
+                "Width": 25
+            },
+            {
+                "Depth": 10,
+                "Height": 10,
+                "ProductionDate": "2024-09-23",
+                "Weight": 5,
+                "Width": 10
+            }
+        ],
+        "Width": 50
+    },
+    {
+        "Depth": 50,
+        "Height": 50,
+        "Packages": [
+            {
+                "Depth": 10,
+                "ExpirationDate": "2024-12-20",
+                "Height": 1,
+                "ProductionDate": "2024-09-11",
+                "Weight": 5,
+                "Width": 10
+            },
+            {
+                "Depth": 5,
+                "Height": 20,
+                "ProductionDate": "2024-09-17",
+                "Weight": 15,
+                "Width": 10
+            },
+            {
+                "Depth": 40,
+                "Height": 35,
+                "ProductionDate": "2024-09-23",
+                "Weight": 35,
+                "Width": 25
+            }
+        ],
+        "Width": 50
+    },
+    {
+        "Depth": 50,
+        "Height": 50,
+        "Packages": [
+            {
+                "Depth": 10,
+                "Height": 10,
+                "ProductionDate": "2024-09-11",
+                "Weight": 5,
+                "Width": 10
+            },
+            {
+                "Depth": 5,
+                "Height": 2,
+                "ProductionDate": "2024-09-17",
+                "Weight": 15,
+                "Width": 10
+            },
+            {
+                "Depth": 40,
+                "Height": 3,
+                "ProductionDate": "2024-09-23",
+                "Weight": 35,
+                "Width": 25
+            }
+        ],
+        "Width": 50
+    }
+]
